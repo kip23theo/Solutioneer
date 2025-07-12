@@ -1,0 +1,8 @@
+# requirements.txt (Pinning versions for stability)
+openvino==2024.1.0
+openvino-dev==2024.1.0
+nncf==2.10.0
+streamlit
+transformers==4.39.3 # <--- This is the crucial line
+torch
+protobuf==3.20.3

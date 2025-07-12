@@ -1,0 +1,9 @@
+# Python virtual environment
+venv/
+
+# Model folder
+optimized_model_chatbot/
+
+# Python cache files
+__pycache__/
+*.pyc
